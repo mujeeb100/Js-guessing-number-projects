@@ -57,8 +57,8 @@ h1 {
 }
 
 .number {
-  background: rgb(231, 171, 171);
-  color: rgb(98, 28, 28);
+  background: rgb(14, 3, 3);
+  color: rgb(240, 227, 227);
   font-size: 6rem;
   width: 15rem;
   padding: 3rem 0rem;
@@ -97,8 +97,8 @@ h1 {
 
 .btn {
   border: none;
-  background-color: rgb(126, 58, 58);
-  color: rgb(81, 133, 230);
+  background-color: rgb(14, 2, 2);
+  color: rgb(216, 222, 233);
   font-size: 2rem;
   font-family: inherit;
   padding: 2rem 3rem;
@@ -106,7 +106,7 @@ h1 {
 }
 
 .btn:hover {
-  background-color: rgb(235, 114, 204);
+  background-color: rgb(243, 225, 239);
 }
 
 .message {
